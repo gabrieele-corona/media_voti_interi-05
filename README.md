@@ -12,7 +12,6 @@
 */
 #include<stdio.h>//printf, scanf
 int main()
-
 {
 	//dichiariamo le tre variabili di input
 	int num1, num2, num3;
